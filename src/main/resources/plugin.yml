@@ -1,0 +1,5 @@
+name: EatBoost
+version: '1.0.0'
+main: winlyps.eatBoost.EatBoost
+api-version: '1.16'
+authors: [ Winlyps ]
